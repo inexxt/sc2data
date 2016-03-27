@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoint
+migdal_notebooks/processed/*
+
